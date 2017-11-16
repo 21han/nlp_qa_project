@@ -1,0 +1,317 @@
+Klingon language
+
+
+The Klingon language (tlhIngan Hol, pronounced /ˈt͡ɬɪ.ŋɑn xol/) is the constructed language spoken by the fictional Klingons in the Star Trek universe.
+Described in the 1985 book The Klingon Dictionary by Marc Okrand and deliberately designed to sound "alien", it has a number of typologically uncommon features. The language's basic sound, along with a few words, was first devised by actor James Doohan ("Scotty") for Star Trek: The Motion Picture. That film marked the first time the language had been heard on screen. In all previous appearances, Klingons spoke in English. Klingon was subsequently developed by Okrand into a full-fledged language.
+Klingon is sometimes referred to as Klingonese (most notably in the Star Trek: The Original Series episode "The Trouble with Tribbles", where it was actually pronounced by a Klingon character as "Klingonee" /klɪŋɡoni/) but, among the Klingon-speaking community, this is often understood to refer to another Klingon language called Klingonaase that was introduced in John M. Ford's 1984 Star Trek novel The Final Reflection, and appears in other Star Trek novels by Ford. A shorthand version of what had previously been termed "Klingonaase", and later adopted under the same name by tlhIngan Hol itself, is called "battle language", or "Clipped Klingon".
+The Klingon Christmas Carol play is the first production that is primarily in Klingon (only the narrator speaks English). The opera ’u’ is entirely in Klingon.
+A small number of people are capable of conversing in Klingon. Its vocabulary, heavily centered on Star Trek-Klingon concepts such as spacecraft or warfare, can sometimes make it cumbersome for everyday use.
+
+
+External historyEdit
+Though mentioned in the original Star Trek series episode "The Trouble with Tribbles", the Klingon language first appeared on-screen in Star Trek: The Motion Picture (1979). According to the actor who spoke the lines, Mark Lenard, James Doohan recorded the lines he had written on a tape, and Lenard transcribed the recorded lines in a way he found useful in learning them.
+For Star Trek III: The Search for Spock (1984) director Leonard Nimoy and writer-producer Harve Bennett wanted the Klingons to speak a structured language instead of random gibberish, and so commissioned a full language based on the phrases Doohan had come up with from Marc Okrand, who had earlier devised four lines of Vulcan dialogue for Star Trek II: The Wrath of Khan. Okrand enlarged the lexicon and developed a grammar based on the original dozen words Doohan had created. The language appeared intermittently in later films featuring the original cast—for example, in Star Trek V: The Final Frontier (1989) and in Star Trek VI: The Undiscovered Country (1991), where translation difficulties served as a plot device.
+Two "non-canon" dialects of Klingon are hinted at in the novelization of Star Trek III: The Search for Spock, as Saavik speaks in Klingon to the only Klingon officer aboard Capt. Kruge's starship after his death, as the survivors of the Enterprise's self-destruction transport up from the crumbling Genesis Planet to the Klingon ship. The surviving officer, Maltz, states that he speaks the Rumaiy dialect, while Saavik is speaking to him in the Kumburan dialect of Klingon, per Maltz's spoken reply to her.
+With the advent of the series Star Trek: The Next Generation (1987)—in which one of the main characters, Worf, was a Klingon—and successors, the language and various cultural aspects for the fictional species were expanded. In the Star Trek: The Next Generation episode "A Matter of Honor", several members of a Klingon ship's crew speak a language that is not translated for the benefit of the viewer (even Commander Riker, enjoying the benefits of a universal translator, is unable to understand) until one Klingon orders the others to "speak their [i.e. humans'] language". A small number of non-Klingon characters were later depicted in Star Trek as having learned to speak Klingon, notably Jean-Luc Picard and Jadzia Dax.
+Worf would later reappear among the regular characters in Star Trek: Deep Space Nine (1993) and B'Elanna Torres, a Klingon-human hybrid, would become a main character on Star Trek: Voyager (1995). The use of untranslated Klingon words interspersed with conversation translated into English was commonplace in later seasons of Star Trek: Deep Space Nine, when Klingons became a more important part of the series' overall story-arcs.
+The pilot episode of the prequel series Star Trek: Enterprise, "Broken Bow" (2001) describes the Klingon language as having "eighty polyguttural dialects constructed on an adaptive syntax". However, Klingon as described on television is often not entirely congruous with the Klingon developed by Okrand.
+
+
+LanguageEdit
+
+Hobbyists around the world have studied the Klingon language. Four Klingon translations of works of world literature have been published: ghIlghameS (the Epic of Gilgamesh), Hamlet (Hamlet), paghmo’ tIn mIS (Much Ado About Nothing) and pIn’a’ qan paQDI’norgh (Tao Te Ching). The Shakespearian choices were inspired by a remark from High Chancellor Gorkon in Star Trek VI: The Undiscovered Country, who said, "You have not experienced Shakespeare until you have read him in the original Klingon." In the bonus material on the DVD, screenwriter Nicholas Meyer and actor William Shatner both explain that this was an allusion to the German myth that Shakespeare was in fact German.
+The Klingon Language Institute exists to promote the language.
+CBS Television Studios owns the copyright on the official dictionary and other canonical descriptions of the language. While constructed languages ("conlangs") are viewed as creations with copyright protection, natural languages are not protected, excluding dictionaries and/or other works created with them. Mizuki Miyashita and Laura Moll note, "Copyrights on dictionaries are unusual because the entries in the dictionary are not copyrightable as the words themselves are facts, and facts can not be copyrighted. However, the formatting, example sentences, and instructions for dictionary use are created by the author, so they are copyrightable." Whether constructed languages can be copyrighted was tested in court in the example of Loglan and its derivative Lojban.
+Okrand had studied some Native American and Southeast Asian languages, and phonological and grammatical features of these languages "worked their way into Klingon, but for the most part, not by design." Okrand himself has stated that a design principle of the Klingon language was dissimilarity to existing natural languages in general, and English in particular. He therefore avoided patterns that are typologically common and deliberately chose features that occur relatively infrequently in human languages. This includes above all the highly asymmetric consonant inventory and the basic word order.
+
+The 2003–2010 version of the puzzle globe logo of Wikipedia, representing its multilingualism, contained a Klingon character. The updated logo removed the character and substituted one from the Ge'ez script.
+
+
+SpeakersEdit
+A small number of people are capable of conversing in Klingon. Arika Okrent guessed in her book In the Land of Invented Languages that there might be 20–30 fluent speakers. Its vocabulary, heavily centered on Star Trek–Klingon concepts such as spacecraft or warfare, can sometimes make it cumbersome for everyday use. For instance, while words for transporter ionizer unit (jolvoy’) or bridge (of a ship) (meH) have been known since close to the language's inception, the word for bridge in the sense of a crossing over water (QI) was unknown until August 2012. Nonetheless, mundane conversations are common among skilled speakers.
+One Klingon speaker, d'Armond Speers, raised his son Alec to speak Klingon as a first language, whilst the boy's mother communicated with him in English. Alec rarely responded to his father in Klingon, although when he did his pronunciation was "excellent". After Alec's fifth birthday, Speers reported that his son eventually stopped responding to him when spoken to in Klingon as he clearly did not enjoy it, so Speers switched to English.
+In 2007 a report surfaced that Multnomah County, Oregon was hiring Klingon translators for its mental health program in case patients came into a psychiatric hospital speaking nothing but. Most circulations of the report seemingly implied that this was a problem that health officials faced before, however the original report indicated that this was just a precaution for a hypothetical and that said translator would only be paid on an as needed basis. After the report was misinterpreted the County issued another release noting that the releasing the original report was a "mistake".
+In May 2009, Simon & Schuster, in collaboration with Ultralingua Inc., a developer of electronic dictionary applications, announced the release of a suite of electronic Klingon language software for most computer platforms including a dictionary, a phrasebook, and an audio learning tool.
+In September 2011, Eurotalk released the "Learn Klingon" course in its Talk Now! series. The language is displayed in both Latin and pIqaD fonts, making this the first language course written in pIqaD and approved by CBS and Marc Okrand. It was translated by Jonathan Brown and Okrand and uses the Hol-pIqaD TrueType font.
+
+
+Appearance and useEdit
+The Klingon language was first developed only for the purpose of being used in Star Trek. A daily conversation or a perfect translation of literature are difficult because of the small vocabulary of only 3000 words. Fans enjoy using the language at cosplay conventions and for role-playing to give their character a more realistic appearance. There are Klingon language meetings and linguists or students are interested in researching this topic, even writing essays about the language or its users. In the media (music, literature and television) Klingon is also used frequently as a reference to Star Trek.
+
+
+Star Trek feature filmsEdit
+Klingon is used in the following films:
+Star Trek: The Motion Picture (1979)
+A total of only eleven short phrases. These were created by James Doohan and made the basis for the language developed by Okrand.
+
+Star Trek III: The Search for Spock (1984)
+Some dialogue was first spoken in English and later recorded in Klingon.
+
+Star Trek V: The Final Frontier (1989)
+This film has the largest use of Klingon.
+
+Star Trek VI: The Undiscovered Country (1991)
+Lots of Klingon dialogues and also untranslated background screams.
+
+Star Trek Generations (1994)
+One single word was heard in the background of a Klingons' scene.
+
+Star Trek (2009)
+Two scenes with Klingon phrases had been cut from the film. These are shown in the special features part of the film's DVD.
+
+Star Trek Into Darkness (2013)
+There is a scene with Klingons where communications officer Uhura (Zoë Saldaña) talks to them in Klingon.
+
+
+Other moviesEdit
+
+
+Correct KlingonEdit
+Daddy Day Care (2003)
+One of the children speaks a few phrases in Klingon.
+
+Faintheart (2008)
+One of the main characters loves Star Trek, so he speaks Klingon to his girlfriend during a romantic situation after she asked him to do so.
+
+Paul (2011)
+In this film about two nerds finding an alien lifeform, the main characters played by Simon Pegg and Nick Frost use Klingon as a form of secret communication.
+
+
+Other references to Klingon languageEdit
+Kill Bill (2003)
+This film starts with an image of the "old Klingon proverb", displayed in English: "Revenge is a dish best served cold". Khan had referred to this phrase as an old Klingon proverb in Star Trek II: The Wrath of Khan.
+
+Garden State (2004)
+There is a scene in which the character Tim, played by Jim Parsons, appears to speak Klingon, but no canon Klingon is used.
+
+Fanboys (2009)
+There is a scene where one of the main characters asks a Star Trek fan what the phrase "you're going to die a virgin" is in Klingon.
+
+The Spy Next Door (2010)
+Fern says that Ian "found a Klingon dictionary" online, as he shows obvious excitement about something on the computer he is browsing.
+
+
+Television showsEdit
+Star Trek: The Next Generation, Star Trek: Deep Space Nine, Star Trek: Voyager
+Several episodes use Klingon words, but none use Klingon as frequently as it is used in Star Trek films.
+
+The Simpsons (February 2001)
+In episode 11 of the twelfth season of The Simpsons (entitled "Worst Episode Ever"), Comic Book Guy is tossed out of Moe's bar. Lying in the gutter, he asks himself, "Is there a word in Klingon for 'loneliness'?" Flipping through his handy pocket dictionary, he looks skyward and exclaims, "Garr'dock!". Likewise, he recites a Klingon oath of love in the episode My Big Fat Geek Wedding when about to marry Edna Krabappel at a Star Trek convention. None of these are proper Klingon, but the word LOVE is visible using Klingon letters.
+Buffy the Vampire Slayer (May 2002)
+
+In Buffy the Vampire Slayer (season 6), in the episode "Seeing Red" Klingon occurs in writing (in pIqaD) at one point when the main characters rummage through the evil trio's lair in search for clues to their plans. Giles is mystified by the weird glyphs, but Xander immediately (and correctly) recognizes this as Klingon.
+
+Frasier (November 2002)
+In "Star Mitzvah", a Season 10 episode of the sitcom, Frasier Crane gives a speech in Klingon at the ceremony for his son's Bar Mitzvah—having been fooled by a Jewish colleague he had let down into thinking it was Hebrew.
+
+How I Met Your Mother (November 2005)
+In the eighth episode of the first season (2005) "The Duel", Robin is forced to cancel a date with a geek. He answers with a Klingon insult Hab SoSlI’ Quch ("Your mother has a smooth forehead"), explaining that she was acting without honor.
+
+NCIS (October 2006)
+In "Witch Hunt", an episode of the television crime drama, Timothy McGee, who understands Klingon, communicates with a suspect dressed as a Klingon at a Halloween party, until his superior, Leroy Jethro Gibbs, becomes impatient enough to force the suspect to speak in English.
+
+Chuck (September 2007–January 2012)
+Chuck Bartowski and Bryce Larkin communicate in Klingon when nobody else should understand and to verify their identity.
+
+The Big Bang Theory (November 2008 et al.)
+In The Big Bang Theory, there are frequent references to Klingon. In the second season episode "The Panty Piñata Polarization", Sheldon, Leonard, Howard, and Raj are seen playing Klingon Boggle and speak several Klingon words during the game. In the third season episode "The Creepy Candy Coating Corollary", Sheldon actually quotes the Klingon proverb referred to by Khan in Star Trek II: revenge being a dish best served cold. In the fifth season finale, "The Countdown Reflection", Sheldon tries to wed Howard and Bernadette in Klingon. In the sixth episode of the seventh season, "The Romance Resonance", Howard W. sings a song for his wife Bernadette and includes a phrase in Klingon.
+
+Shortland Street (January 2014)
+In episode 5408 of this New Zealand soap opera, Harry sends an email in Klingon to Grace.
+
+
+Other mediaEdit
+In 2010, a Chicago Theatre company presented a version of Charles Dickens' A Christmas Carol in Klingon language and a Klingon setting. On September 25, 2010, the Washington Shakespeare Company (now known as WSC Avant Bard) performed selections from Hamlet and Much Ado About Nothing in the Klingon language in Arlington, Virginia. The performance was proposed by Okrand in his capacity as chairman of the group's board. This performance was reprised on February 27, 2011 featuring Stephen Fry as the Klingon Osric and was filmed by the BBC as part of a 5-part documentary on language entitled Fry's Planet Word.
+A cryptic message left by a serial killer in Klingon is a plot point in the novel Watch Me by A. J. Holt.
+Google Search and Minecraft each have a Klingon language setting.
+The January 12, 2003 strip of Something Positive showed a gamer speaking in Klingon.
+The logo of Wikipedia had a Klingon language character before its update in 2010.
+The file management software XYplorer has been translated into Klingon by its developer.
+In the title track to Kate Bush's 50 Words for Snow, the Klingon phrase peDtaH ’ej chIS qo’ appears as number 42. She thanked Marc Okrand in the liner notes for providing the translation (for which the literal translation back into English is "It's snowing and the world is white.").
+Microsoft's Bing Translator attempts to translate Klingon from and to other languages. It can do a good job with individual words, and with phrases included in its training corpus, but it is not well tuned for Klingon's system of prefixes and suffixes. For example, DaHaDnIS "You must study it" is rendered instead as "They Must Study."
+In July 2015, when Conservative Welsh Assembly Member Darren Millar formally asked the Welsh Economy Minister Edwina Hart about the Welsh Government's policy funding research into sightings of UFOs at Cardiff Airport, a press officer in the Minister's office issued a written reply in Klingon: jang vIDa je due luq. ‘ach ghotvam’e’ QI’yaH-devolved qaS., which was translated as: "The minister will reply in due course. However this is a non-devolved matter."
+
+
+Language learning applicationsEdit
+Duolingo will feature a course for Klingon.
+The Klingon Language Institute provides a Learn Klingon Online series of lessons to its members. The first few lessons are free to sample.
+
+
+CanonEdit
+An important concept to spoken and written Klingon is canonicity. Only words and grammatical forms introduced by Marc Okrand are considered canonical Klingon by the KLI and most Klingonists. However, as the growing number of speakers employ different strategies to express themselves, it is often unclear as to what level of neologism is permissible. New vocabulary has been collected in a list maintained by the KLI until 2005 and has since then been followed up by Klingon expert Lieven Litaer.
+
+
+Internal historyEdit
+Within the fictional universe of Star Trek, Klingon is derived from the original language spoken by the messianic figure Kahless the Unforgettable, who united the Klingon home-world of Qo’noS under one empire more than 1500 years ago. Many dialects exist, but the standardized dialect of prestige is almost invariably that of the sitting emperor.
+
+
+SourcesEdit
+The Klingon Language Institute regards the following works as canon Klingon; they serve as sources of Klingon vocabulary and grammar for all other works.
+Books
+The Klingon Dictionary (TKD)
+The Klingon Way (TKW)
+Klingon for the Galactic Traveler (KGT)
+Sarek, a novel which includes some tlhIngan Hol
+Federation Travel Guide, a pamphlet from Pocketbooks
+paq’batlh: The Klingon Epic (ISBN 978-90-817091-2-5), ed. Floris Schönfeld et al., trans. Marc Okrand. Includes the first full edition of the paq’batlh and no’Hol fragments.
+Audio tapes
+Conversational Klingon (CK)
+Power Klingon (PK)
+The Klingon Way (TKW)
+Electronic resources
+The Klingon Language Suite, language-learning tools from Ultralingua with Simon & Schuster
+Star Trek: Klingon, a CD-ROM game (KCD, also STK). The CD-ROM includes a Klingon learning module with speech recognition to train the player in Klingon pronunciation; this module was developed by Dragon Systems, Inc. (which is credited on the box and in the CD-ROM) in collaboration with Marc Okrand.
+Talk Now! Learn Klingon a beginners' language course for Klingon by Eurotalk and translated by Jonathan Brown (a.k.a. qe’San) and Marc Okrand. (2011)
+Other sources
+certain articles in HolQeD (the journal of the KLI) (HQ)
+certain Skybox Trading Cards (SKY)
+a Star Trek Bird of Prey poster (BoP)
+on-line and in-person text/speech by Marc Okrand (mostly newsgroup postings)
+The letters in parentheses following each item (if any) indicate the acronym of each source - used when quoting canon.
+
+
+PhonologyEdit
+Klingon has been developed with a phonology that, while based on human natural languages, is intended to sound alien to human ears. When initially developed, Paramount Pictures (owners of the Star Trek franchise) wanted the Klingon language to be guttural and harsh and Okrand wanted it to be unusual, so he selected sounds that combined in ways not generally found in other languages. The effect is mainly achieved by the use of a number of retroflex and uvular consonants in the language's inventory. Klingon has twenty-one consonants and five vowels. Klingon is normally written in a variant of the Latin alphabet. In this orthography, upper and lower case letters are not interchangeable (uppercase letters mostly represent sounds different from those expected by English speakers). In the discussion below, standard Klingon orthography appears in ⟨angle brackets⟩, and the phonemic transcription in the International Phonetic Alphabet is written between /slashes/.
+
+
+ConsonantsEdit
+The inventory of consonants in Klingon is spread over a number of places of articulation. In spite of this, the inventory has many gaps: Klingon has no velar plosives, and only one sibilant fricative. Deliberately, this arrangement is very different from that of most human languages. The combination of an aspirated voiceless alveolar plosive /tʰ/ and a voiced retroflex plosive /ɖ/ is particularly unusual.
+There are a few dialectal pronunciation differences (it is not known if the aforementioned non-canon Kumburan or Rumaiy dialects of tlhIngan Hol hinted at in the third Trek movie might differ):
+In the Krotmag dialect
+/b/ is replaced by /m/.
+/ɖ/ is replaced by /ɳ/.
+In the Tak'ev dialect:
+/b/ becomes /mb/.
+/ɖ/ becomes /ɳɖ/.
+In the Morskan dialect
+/t͡ɬ/ is replaced by /t͡s/
+/x/ is replaced by /h/ at the beginning of syllables, or is dropped at the end of syllables
+/q͡χ/ is replaced by /x/.
+
+
+VowelsEdit
+In contrast to its consonants, Klingon's inventory of vowels is simple, and similar to those of many human languages, such as Spanish (or Japanese, due to also having a simple phonology). There are five vowels spaced more or less evenly around the vowel space, with two back rounded vowels, one back unrounded vowel, and two front or near-front unrounded vowels. The vowel inventory is asymmetrical in that the back rounded vowels are tense and the front vowels are lax.
+The two front vowels, ⟨e⟩ and ⟨I⟩, represent sounds that are found in English, but are more open and lax than a typical English speaker might assume when reading Klingon text written in the Latin alphabet, thus causing the consonants of a word to be more prominent. This enhances the sense that Klingon is a clipped and harsh-sounding language.
+Vowels
+⟨a⟩ – /ɑ/ – open back unrounded vowel (in English spa)
+⟨e⟩ – /ɛ/ – open-mid front unrounded vowel (in English bed)
+⟨I⟩ – /ɪ/ – near-close near-front unrounded vowel (in English bit)
+⟨o⟩ – /o/ – close-mid back rounded vowel (in French eau)
+⟨u⟩ – /u/ – close back rounded vowel (in Spanish tu)
+Diphthongs can be analyzed phonetically as the combination of the five vowels plus one of the two semivowels /w/ and /j/ (represented by ⟨w⟩ and ⟨y⟩, respectively). Thus, the combinations ⟨ay⟩, ⟨ey⟩, ⟨Iy⟩, ⟨oy⟩, ⟨uy⟩, ⟨aw⟩, ⟨ew⟩ and ⟨Iw⟩ are possible. There are no words in the Klingon language that contain *⟨ow⟩ or *⟨uw⟩.
+
+
+Syllable structureEdit
+Klingon follows a strict syllable structure. A syllable must start with a consonant (which includes the glottal stop) followed by one vowel. In prefixes and other rare syllables, this is enough. More commonly, this consonant-vowel pair is followed by one consonant or one of three biconsonantal codas: /-w’ -y’ -rgh/. Thus, ta "record", tar "poison" and targh "targ" (a type of animal) are all legal syllable forms, but *tarD and *ar are not. Despite this, one suffix takes the shape vowel+consonant: the endearment suffix -oy.
+
+
+StressEdit
+In verbs, the stressed syllable is usually the verbal stem itself, as opposed to a prefix or any suffixes, except when a suffix ending with ⟨’⟩ is separated from the verb by at least one other suffix, in which case the suffix ending in ⟨’⟩ is also stressed. In addition, stress may shift to a suffix that is meant to be emphasized.
+In nouns, the final syllable of the stem (the noun itself, excluding any affixes) is stressed. If any syllables ending in ⟨’⟩ are present, the stress shifts to those syllables.
+The stress in other words seems to be variable, but this is not a serious issue because most of these words are only one syllable in length. There are some words which should fall under the rules above, but do not, although using the standard rules would still be acceptable.
+
+
+GrammarEdit
+
+Klingon is an agglutinative language, using mainly affixes in order to alter the function or meaning of words. Some nouns have inherently plural forms, such as jengva’ "plate" (vs. ngop "plates"), but most nouns require a suffix to express plurality explicitly. Depending on the type of noun (body part, being capable of using language, or neither) the suffix changes. For beings capable of using language, the suffix is -pu’, as in tlhInganpu’, meaning "Klingons," or jaghpu’, meaning "enemies". For body parts, the plural suffix is -Du’, as in mInDu’, "eyes". For items that are neither body parts nor capable of speech, the suffix is -mey, such as in Hovmey ("stars"), or targhmey ("targs") for a Klingon animal somewhat resembling a boar. (However, a plural suffix is never obligatory. To say "The stars are beautiful", ’IH Hovmey and ’IH Hov are equally grammatical, although the second can also mean "The star is beautiful".)
+The words loD and be’, which on their own mean "man" and "woman" respectively, can be used in compound words to refer to the referent's sex. For example, from puq ("child") this process derives puqloD ("son") and puqbe’ ("daughter").
+Klingon nouns take suffixes to indicate grammatical number. There are three noun classes, two levels of deixis, and a possession and syntactic function. In all, twenty-nine noun suffixes from five classes may be employed: jupoypu’na’wI’vaD "for my beloved true friends". A word may carry no more than one suffix from each class, and the classes have a specific order of appearance.
+Verbs in Klingon take a prefix indicating the number and person of the subject and object, whereas suffixes are taken from nine ordered classes and a special suffix class called rovers. Each of the four known rovers has a unique rule controlling its position among the suffixes in the verb. Verbs are marked for aspect, certainty, predisposition and volition, dynamic, causative, mood, negation, and honorific. The Klingon verb has two moods: indicative and imperative.
+The most common word order in Klingon is object–verb–subject, and, in most cases, the word order is the exact reverse of English for an equivalent sentence:
+
+DaH  mojaq-mey-vam  DI-vuS-nIS-be’  ’e’  vI-Har
+now suffix-PL-DEM  1PL.A.3PL.P-limit-need-NEG that 1SG.A.3SG.P-believe
+"I believe that we do not need to limit these suffixes now."
+
+(Hyphens are used in the above only to illustrate the use of affixes. Hyphens are not used in Klingon.)
+An important aspect of Klingon grammar is its "ungrammaticality". As with for example Japanese, shortening of communicative statements is common, and is called "Clipped Klingon" (tlhIngan Hol poD or, more simply, Hol poD) and Ritualized Speech. Clipped Klingon is especially useful in situations where speed is a decisive factor. Grammar is abbreviated, and sentence parts deemed to be superfluous are dropped. Intentional ungrammaticality is widespread, and it takes many forms. It is exemplified by the practice of pabHa’, which Marc Okrand translates as "to misfollow the rules" or "to follow the rules wrongly".
+
+
+Writing systemsEdit
+
+When written in the Latin alphabet, Klingon is unusual in being case-sensitive, with some letters written in capitals and others in lowercase. In one contrast, q and Q, there is an actual case-sensitive pair representing two different consonants. Capitals are generally reserved for uvular or retroflex consonants pronounced further back in the mouth or throat than is normal for the corresponding English sounds, as with D, Q, and S. However, H, pronounced like the ⟨ch⟩ in German "ach" or Scottish "loch", is further forward in the throat than English /h/. One phoneme, the vowel I (as in i), is written capital to look more like the IPA symbol for the sound /ɪ/, and can pose problems when writing Klingon in sans-serif fonts such as Arial, as it looks almost the same as the consonant l (as in L):
+Abraham Lincoln was born in Illinois.
+This has led some Klingon enthusiasts to write it lowercase like the other vowels ("i") to prevent confusion, but this use is non-canonical. Instead, a serif font that clearly distinguishes "I" and "l", such as Courier or Courier New, has traditionally been employed for writing Klingon in the Latin alphabet. The apostrophe, denoting the glottal stop, is considered a letter, not a punctuation mark.
+a b ch D e gh H I j l m n ng o p q Q r S t tlh u v w y ’
+Klingon is often written (in-universe, "transliterated") to the Latin alphabet as used above, but on the television series, the Klingons use their own alien writing system. In The Klingon Dictionary, this alphabet is named as pIqaD, but no information is given about it. When Klingon symbols are used in Star Trek productions, they are merely decorative graphic elements, designed to emulate real writing and create an appropriate atmosphere. Enthusiasts have settled on the name pIqaD for this writing system.
+The Astra Image Corporation designed the symbols currently used to "write" Klingon for Star Trek: The Motion Picture, although these symbols are often incorrectly attributed to Michael Okuda. They based the letters on the Klingon battlecruiser hull markings (three letters) first created by Matt Jefferies and on Tibetan writing because the script has sharp letter forms—used as a testament to the Klingons' love for knives and blades.
+For April Fools' Day in 2013, Nokia and typography company Dalton Maag claimed to have used "communication devices to far-flung star systems" to assist them in localising the Nokia Pure font to the Klingon writing system. Though the explanation was of course humorous in nature, as part of the practical joke a series of real fonts based upon the most commonly used pIqaD character mapping were in fact developed, and have been made available for free download.
+
+
+VocabularyEdit
+A design principle of the Klingon language is the great degree of lexical-cultural correlation in the vocabulary. For example, there are several words meaning "to fight" or "to clash against," each having a different degree of intensity. There is an abundance of words relating to warfare and weaponry and also a great variety of curses (cursing is considered a fine art in Klingon culture). This helps lend a particular character to the language.
+There are also many in-jokes built into the language. For example, the word for "pair" is chang’eng, a reference to the original "Siamese twins" Chang and Eng; a guitar is a leSpal (i.e. Les Paul); the word for "ritualized torture by women" is be’joy (be' means "woman"); "hangover" is ’uH and the word for "fish" is ghotI’
+Sources for the vocabulary include English (albeit heavily disguised), and also Yiddish: Sa’Hut (buttocks: tuchis backwards), and ’oy’ (ache, pain, sore; cf. Oy veh).
+Many English words do not have direct translations into Klingon. To express "hello", the nearest equivalent is nuqneH, meaning "What do you want?". with "goodbye" translated as Qapla', "Success!".
+
+
+Example sentencesEdit
+tlhIngan Hol Dajatlh’a’?
+Do you speak Klingon?
+jIyajbe’.
+I don’t understand.
+Dochvetlh vISoplaHbe’.
+I can’t eat that thing.
+bIlughbe’.
+You are wrong.
+bortaS bIr jablu’DI’ reH QaQqu’ nay’.
+Revenge is a dish best served cold. (lit: When cold revenge is served, the dish is always very good)
+Heghlu’meH QaQ jajvam.
+Today is a good day to die.
+The KLI has hosted wordplay contests, with challenges to invent new Klingon phrases using natural language word play such as palindromes, pangrams, and spoonerisms. Winning sentences include:
+jIl moH ghajjaj jaghHomlIj. *
+May your rival have an ugly neighbor.
+vIt’e’ naD lalDan ’e’ tIv. *
+He enjoys religion praising truth.
+tlhab ’oS ’Iw; HoHwI’ So’ batlh. *
+Blood represents freedom; honor hides the killer.
+romuluSngan Hol yIjatlh. He’So’ QIchlIj.
+Speak Romulan! Your accent stinks.
+vavlI’ quv Say’moHmeH nuj bIQ vIlo’chugh, nuj bIQ vIlammoH.
+If I use spit (mouth water) to clean your father’s honor, I only dirty the spit.
+mo’Dajvo’ pa’wIjDaq je narghpu’ He’So’bogh SajlIj.
+Your stinking pet has escaped from its cage and appeared in my quarters.
+qajunpaQHeylIjmo’ batlh DuSuvqang charghwI’ ’It.
+Because of your apparent audacity the depressed conqueror is willing to fight you.
+nobwI’’a’pu’qoqvam’e’ nuHegh’eghrupqa’moHlaHbe’law’lI’neS SeH’eghtaHghach’a’na’chajmo’.
+The so-called great benefactors are seemingly unable to cause us to prepare to resume honorable suicide (in progress) due to their definite self control.
+be’HomDu’na’wIjtIq’a’Du’na’vaD ghureghqangqa’moHlaHqu’be’taH’a’ Somraw’a’meyna’wIj’e’?
+Is it not that my many, large, scattered muscles are quite capable of swelling for the benefit of the hearts of many scattered girls?
+* palindrome
+
+
+See alsoEdit
+
+Alien language
+Klingon culture
+Klingon grammar
+Klingon Language Institute
+Stovokor, a death metal band whose lyrics are written in Klingon
+’u’, the first Klingon opera
+Klingon Christmas Carol, a staged adaptation of Charles Dickens's A Christmas Carol in Klingon
+
+
+NotesEdit
+
+
+ReferencesEdit
+Bernard Comrie, 1995, "The Paleo-Klingon numeral system". HolQeD 4.4: 6–10.
+Klingon ConScript Unicode Registry (CSUR)
+pIqaD Support
+Klingon (pIqaD) Unicode font (U+F8D0–U+F8FF)
+Klingon text converter (transliteration)
+
+
+External linksEdit
+ The dictionary definition of Appendix:Klingon at Wiktionary
+ Klingon at Wikibooks
+Klingon Language Institute
+Klingonska Akademien
+qepHom Saarbrücken The largest annual Klingon Language Meeting in Europe
+Klingon Language Wiki Open Klingon Language Encyclopedia
+Klingon and its User: A Sociolinguistic Profile, a sociolinguistics MA thesis
+Wahlgren, Yens (Spring 2004). Klingon as Linguistic Capital: A Sociologic Study of Nineteen Advanced Klingonists (PDF) (Bachelor’s thesis). Lund, Scania, Sweden: Department of Sociology, Lund University. Retrieved 2015-03-10. 
+Is Klingon an Ohlonean language? A comparison of Mutsun and Klingon
+Omniglot: Klingon Alphabet
+Eatoni Ergonomics' Klingon page includes BDF, TTF fonts and a Klingon text entry demo
+paq’batlh: The Klingon Epic

@@ -1,0 +1,204 @@
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Java (programming language)</title>
+<link rel="original" href="http://en.wikipedia.org/wiki/Java_language" />
+</head>
+<body>
+<h1>Java (programming language)</h1>
+<p><b>Java</b> is a general-purpose computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of computer architecture. As of 2015, Java is one of the most popular programming languages in use, particularly for client-server web applications, with a reported 9 million developers. Java was originally developed by James Gosling at Sun Microsystems (which has since been acquired by Oracle Corporation) and released in 1995 as a core component of Sun Microsystems' Java platform. The language derives much of its syntax from C and C++, but it has fewer low-level facilities than either of them.</p>
+<p>The original and reference implementation Java compilers, virtual machines, and class libraries were originally released by Sun under proprietary licences. As of May 2007, in compliance with the specifications of the Java Community Process, Sun relicensed most of its Java technologies under the GNU General Public License. Others have also developed alternative implementations of these Sun technologies, such as the GNU Compiler for Java (bytecode compiler), GNU Classpath (standard libraries), and IcedTea-Web (browser plugin for applets).</p>
+<p>The latest version is Java 8, which is the only version currently supported for free by Oracle, although earlier versions are supported both by Oracle and other companies on a commercial basis.</p>
+<p></p>
+<h2><span id="History">History</span></h2>
+
+
+
+
+<p>James Gosling, Mike Sheridan, and Patrick Naughton initiated the Java language project in June 1991. Java was originally designed for interactive television, but it was too advanced for the digital cable television industry at the time. The language was initially called <i>Oak</i> after an oak tree that stood outside Gosling's office. Later the project went by the name <i>Green</i> and was finally renamed <i>Java</i>, from Java coffee. Gosling designed Java with a C/C++-style syntax that system and application programmers would find familiar.</p>
+<p>Sun Microsystems released the first public implementation as Java 1.0 in 1995. It promised "Write Once, Run Anywhere" (WORA), providing no-cost run-times on popular platforms. Fairly secure and featuring configurable security, it allowed network- and file-access restrictions. Major web browsers soon incorporated the ability to run <i>Java applets</i> within web pages, and Java quickly became popular. The Java 1.0 compiler was re-written in Java by Arthur van Hoff to comply strictly with the Java 1.0 language specification. With the advent of <i>Java 2</i> (released initially as J2SE 1.2 in December 1998 – 1999), new versions had multiple configurations built for different types of platforms. <i>J2EE</i> included technologies and APIs for enterprise applications typically run in server environments, while <i>J2ME</i> featured APIs optimized for mobile applications. The desktop version was renamed <i>J2SE</i>. In 2006, for marketing purposes, Sun renamed new <i>J2</i> versions as <i>Java EE</i>, <i>Java ME</i>, and <i>Java SE</i>, respectively.</p>
+<p>In 1997, Sun Microsystems approached the ISO/IEC JTC 1 standards body and later the Ecma International to formalize Java, but it soon withdrew from the process. Java remains a <i>de facto</i> standard, controlled through the Java Community Process. At one time, Sun made most of its Java implementations available without charge, despite their proprietary software status. Sun generated revenue from Java through the selling of licenses for specialized products such as the Java Enterprise System.</p>
+<p>On November 13, 2006, Sun released much of its Java virtual machine (JVM) as free and open-source software, (FOSS), under the terms of the GNU General Public License (GPL). On May 8, 2007, Sun finished the process, making all of its JVM's core code available under free software/open-source distribution terms, aside from a small portion of code to which Sun did not hold the copyright.</p>
+<p>Sun's vice-president Rich Green said that Sun's ideal role with regard to Java was as an "evangelist". Following Oracle Corporation's acquisition of Sun Microsystems in 2009–10, Oracle has described itself as the "steward of Java technology with a relentless commitment to fostering a community of participation and transparency". This did not prevent Oracle from filing a lawsuit against Google shortly after that for using Java inside the Android SDK (see Google section below). Java software runs on everything from laptops to data centers, game consoles to scientific supercomputers. On April 2, 2010, James Gosling resigned from Oracle.</p>
+<h3><span id="Principles">Principles</span></h3>
+<p>There were five primary goals in the creation of the Java language:</p>
+<ol><li>It must be "simple, object-oriented, and familiar".</li>
+<li>It must be "robust and secure".</li>
+<li>It must be "architecture-neutral and portable".</li>
+<li>It must execute with "high performance".</li>
+<li>It must be "interpreted, threaded, and dynamic".</li>
+</ol><h3><span id="Versions">Versions</span></h3>
+
+<p>As of 2015, only Java 8 is supported ("publicly"). Major release versions of Java, along with their release dates:</p>
+<ul><li>JDK 1.0 (January 21, 1996)</li>
+<li>JDK 1.1 (February 19, 1997)</li>
+<li>J2SE 1.2 (December 8, 1998)</li>
+<li>J2SE 1.3 (May 8, 2000)</li>
+<li>J2SE 1.4 (February 6, 2002)</li>
+<li>J2SE 5.0 (September 30, 2004)</li>
+<li>Java SE 6 (December 11, 2006)</li>
+<li>Java SE 7 (July 28, 2011)</li>
+<li>Java SE 8 (March 18, 2014)</li>
+</ul><h2><span id="Practices">Practices</span></h2>
+<h3><span id="Java_platform">Java platform</span></h3>
+
+
+<p>One design goal of Java is portability, which means that programs written for the Java platform must run similarly on any combination of hardware and operating system with adequate runtime support. This is achieved by compiling the Java language code to an intermediate representation called Java bytecode, instead of directly to architecture-specific machine code. Java bytecode instructions are analogous to machine code, but they are intended to be executed by a virtual machine (VM) written specifically for the host hardware. End users commonly use a Java Runtime Environment (JRE) installed on their own machine for standalone Java applications, or in a web browser for Java applets.</p>
+<p>Standard libraries provide a generic way to access host-specific features such as graphics, threading, and networking.</p>
+<p>The use of universal bytecode makes porting simple. However, the overhead of interpreting bytecode into machine instructions makes interpreted programs almost always run more slowly than native executables. However, just-in-time (JIT) compilers that compile bytecodes to machine code during runtime were introduced from an early stage. Java itself is platform-independent, and is adapted to the particular platform it is to run on by a Java virtual machine for it, which translates the Java bytecode into the platform's machine language.</p>
+<h4><span id="Implementations">Implementations</span></h4>
+
+<p>Oracle Corporation is the current owner of the official implementation of the Java SE platform, following their acquisition of Sun Microsystems on January 27, 2010. This implementation is based on the original implementation of Java by Sun. The Oracle implementation is available for Microsoft Windows (still works for XP, while only later versions currently "publicly" supported), Mac OS X, Linux and Solaris. Because Java lacks any formal standardization recognized by Ecma International, ISO/IEC, ANSI, or other third-party standards organization, the Oracle implementation is the de facto standard.</p>
+<p>The Oracle implementation is packaged into two different distributions: The Java Runtime Environment (JRE) which contains the parts of the Java SE platform required to run Java programs and is intended for end users, and the Java Development Kit (JDK), which is intended for software developers and includes development tools such as the Java compiler, Javadoc, Jar, and a debugger.</p>
+<p>OpenJDK is another notable Java SE implementation that is licensed under the GNU GPL. The implementation started when Sun began releasing the Java source code under the GPL. As of Java SE 7, OpenJDK is the official Java reference implementation.</p>
+<p>The goal of Java is to make all implementations of Java compatible. Historically, Sun's trademark license for usage of the Java brand insists that all implementations be "compatible". This resulted in a legal dispute with Microsoft after Sun claimed that the Microsoft implementation did not support RMI or JNI and had added platform-specific features of their own. Sun sued in 1997, and in 2001 won a settlement of US$20 million, as well as a court order enforcing the terms of the license from Sun. As a result, Microsoft no longer ships Java with Windows.</p>
+<p>Platform-independent Java is essential to Java EE, and an even more rigorous validation is required to certify an implementation. This environment enables portable server-side applications.</p>
+<h4><span id="Performance">Performance</span></h4>
+
+<p>Programs written in Java have a reputation for being slower and requiring more memory than those written in C++. However, Java programs' execution speed improved significantly with the introduction of just-in-time compilation in 1997/1998 for Java 1.1, the addition of language features supporting better code analysis (such as inner classes, the StringBuilder class, optional assertions, etc.), and optimizations in the Java virtual machine, such as HotSpot becoming the default for Sun's JVM in 2000.</p>
+<p>Some platforms offer direct hardware support for Java; there are microcontrollers that can run Java in hardware instead of a software Java virtual machine, and ARM based processors can have hardware support for executing Java bytecode through their Jazelle option (while its support is mostly dropped in current implementations of ARM).</p>
+<h3><span id="Automatic_memory_management">Automatic memory management</span></h3>
+<p>Java uses an automatic garbage collector to manage memory in the object lifecycle. The programmer determines when objects are created, and the Java runtime is responsible for recovering the memory once objects are no longer in use. Once no references to an object remain, the unreachable memory becomes eligible to be freed automatically by the garbage collector. Something similar to a memory leak may still occur if a programmer's code holds a reference to an object that is no longer needed, typically when objects that are no longer needed are stored in containers that are still in use. If methods for a nonexistent object are called, a "null pointer exception" is thrown.</p>
+<p>One of the ideas behind Java's automatic memory management model is that programmers can be spared the burden of having to perform manual memory management. In some languages, memory for the creation of objects is implicitly allocated on the stack, or explicitly allocated and deallocated from the heap. In the latter case the responsibility of managing memory resides with the programmer. If the program does not deallocate an object, a memory leak occurs. If the program attempts to access or deallocate memory that has already been deallocated, the result is undefined and difficult to predict, and the program is likely to become unstable and/or crash. This can be partially remedied by the use of smart pointers, but these add overhead and complexity. Note that garbage collection does not prevent "logical" memory leaks, <i>i.e.</i>, those where the memory is still referenced but never used.</p>
+<p>Garbage collection may happen at any time. Ideally, it will occur when a program is idle. It is guaranteed to be triggered if there is insufficient free memory on the heap to allocate a new object; this can cause a program to stall momentarily. Explicit memory management is not possible in Java.</p>
+<p>Java does not support C/C++ style pointer arithmetic, where object addresses and unsigned integers (usually long integers) can be used interchangeably. This allows the garbage collector to relocate referenced objects and ensures type safety and security.</p>
+<p>As in C++ and some other object-oriented languages, variables of Java's primitive data types are either stored directly in fields (for objects) or on the stack (for methods) rather than on the heap, as is commonly true for non-primitive data types (but see escape analysis). This was a conscious decision by Java's designers for performance reasons.</p>
+<p>Java contains multiple types of garbage collectors. By default, HotSpot uses the parallel scavenge garbage collector. However, there are also several other garbage collectors that can be used to manage the heap. For 90% of applications in Java, the Concurrent Mark-Sweep garbage collector is sufficient. Oracle aims to replace CMS with the Garbage-first collector (G1).</p>
+<h2><span id="Syntax">Syntax</span></h2>
+
+<p>The syntax of Java is largely influenced by C++. Unlike C++, which combines the syntax for structured, generic, and object-oriented programming, Java was built almost exclusively as an object-oriented language. All code is written inside classes, and every data item is an object, with the exception of the primitive data types, <i>i.e.</i> integers, floating-point numbers, boolean values, and characters, which are not objects for performance reasons. Java reuses some popular aspects of C++ (such as printf() method).</p>
+<p>Unlike C++, Java does not support operator overloading or multiple inheritance for <i>classes</i>, though multiple inheritance is supported for interfaces. This simplifies the language and aids in preventing potential errors and anti-pattern design.</p>
+<p>Java uses comments similar to those of C++. There are three different styles of comments: a single line style marked with two slashes (<code>//</code>), a multiple line style opened with <code>/*</code> and closed with <code>*/</code>, and the Javadoc commenting style opened with <code>/**</code> and closed with <code>*/</code>. The Javadoc style of commenting allows the user to run the Javadoc executable to create documentation for the program.</p>
+<p><b>Example:</b></p>
+
+<h2><span id="Examples">Examples</span></h2>
+<h3><span id=".22Hello.2C_world.21.22_program">"Hello, world!" program</span></h3>
+<p>The traditional "Hello, world!" program can be written in Java as:</p>
+
+<p>Source files must be named after the public class they contain, appending the suffix <code>.java</code>, for example, <code>HelloWorldApp.java</code>. It must first be compiled into bytecode, using a Java compiler, producing a file named <code>HelloWorldApp.class</code>. Only then can it be executed, or "launched". The Java source file may only contain one public class, but it can contain multiple classes with other than public access and any number of public inner classes. When the source file contains multiple classes, make one class "public" and name the source file with that public class name.</p>
+<p>A <code><b>class</b></code> that is not declared <code><b>public</b></code> may be stored in any .java file. The compiler will generate a class file for each class defined in the source file. The name of the class file is the name of the class, with <i>.class</i> appended. For class file generation, anonymous classes are treated as if their name were the concatenation of the name of their enclosing class, a <i>$</i>, and an integer.</p>
+<p>The keyword <code><b>public</b></code> denotes that a method can be called from code in other classes, or that a class may be used by classes outside the class hierarchy. The class hierarchy is related to the name of the directory in which the .java file is located. This is called an access level modifier. Other access level modifiers include the keywords <code><b>private</b></code> , and <code><b>protected</b></code>.</p>
+<p>The keyword <code><b>static</b></code> in front of a method indicates a static method, which is associated only with the class and not with any specific instance of that class. Only static methods can be invoked without a reference to an object. Static methods cannot access any class members that are not also static. Methods that are not designated static are instance methods, and require a specific instance of a class to operate.</p>
+<p>The keyword <code><b>void</b></code> indicates that the main method does not return any value to the caller. If a Java program is to exit with an error code, it must call System.exit() explicitly.</p>
+<p>The method name "<code>main</code>" is not a keyword in the Java language. It is simply the name of the method the Java launcher calls to pass control to the program. Java classes that run in managed environments such as applets and Enterprise JavaBeans do not use or need a <code>main()</code> method. A Java program may contain multiple classes that have <code>main</code> methods, which means that the VM needs to be explicitly told which class to launch from.</p>
+<p>The main method must accept an array of <b><code>String</code></b> objects. By convention, it is referenced as <code><b>args</b></code> although any other legal identifier name can be used. Since Java 5, the main method can also use variable arguments, in the form of <code>public static void main(String... args)</code>, allowing the main method to be invoked with an arbitrary number of <code>String</code> arguments. The effect of this alternate declaration is semantically identical (the <code>args</code> parameter is still an array of <code>String</code> objects), but it allows an alternative syntax for creating and passing the array.</p>
+<p>The Java launcher launches Java by loading a given class (specified on the command line or as an attribute in a JAR) and starting its <code>public static void main(String[])</code> method. Stand-alone programs must declare this method explicitly. The <code>String[] args</code> parameter is an array of <code>String</code> objects containing any arguments passed to the class. The parameters to <code>main</code> are often passed by means of a command line.</p>
+<p>Printing is part of a Java standard library: The <b><code>System</code></b> class defines a public static field called <b><code>out</code></b>. The <code>out</code> object is an instance of the <code>PrintStream</code> class and provides many methods for printing data to standard out, including <b><code>println(String)</code></b> which also appends a new line to the passed string.</p>
+<p>The string "Hello World!" is automatically converted to a String object by the compiler.</p>
+<h3><span id="Comprehensive_example">Comprehensive example</span></h3>
+
+<ul><li>The <b>import</b> statement imports the <b><code>JOptionPane</code></b> class from the <b><code>javax.swing</code></b> package.</li>
+<li>The <code><b>OddEven</b></code> class declares a single <code><b>private</b></code> field of type <code><b>int</b></code> named <code><b>userInput</b></code>. Every instance of the <code>OddEven</code> class has its own copy of the <code>userInput</code> field. The private declaration means that no other class can access (read or write) the <code>userInput</code> field.</li>
+<li><code><b>OddEven()</b></code> is a <code><b>public</b></code> constructor. Constructors have the same name as the enclosing class they are declared in, and unlike a method, have no return type. A constructor is used to initialize an object that is a newly created instance of the class.</li>
+<li>The <code><b>calculate()</b></code> method is declared without the <code>static</code> keyword. This means that the method is invoked using a specific instance of the <code>OddEven</code> class. (The reference used to invoke the method is passed as an undeclared parameter of type <code>OddEven</code> named <code><b>this</b></code>.) The method tests the expression <code>userInput % 2 == 0</code> using the <code><b>if</b></code> keyword to see if the remainder of dividing the <code>userInput</code> field belonging to the instance of the class by two is zero. If this expression is true, then it prints <b>Even</b>; if this expression is false it prints <b>Odd</b>. (The <code>calculate</code> method can be equivalently accessed as <code>this.calculate</code> and the <code>userInput</code> field can be equivalently accessed as <code>this.userInput</code>, which both explicitly use the undeclared <code>this</code> parameter.)</li>
+<li><code><b>OddEven number = new OddEven();</b></code> declares a local object reference variable in the <code>main</code> method named <code>number</code>. This variable can hold a reference to an object of type <code>OddEven</code>. The declaration initializes <code>number</code> by first creating an instance of the <code>OddEven</code> class, using the <code><b>new</b></code> keyword and the <code>OddEven()</code> constructor, and then assigning this instance to the variable.</li>
+<li>The statement <code><b>number.showDialog();</b></code> calls the calculate method. The instance of <code>OddEven</code> object referenced by the <code>number</code> local variable is used to invoke the method and passed as the undeclared <code>this</code> parameter to the <code>calculate</code> method.</li>
+<li><code><b>userInput = Integer.parseInt(JOptionPane.showInputDialog("Please Enter A Number"));</b></code> is a statement that converts the type of <b>String</b> to the primitive data type <b>int</b> by using a utility function in the primitive wrapper class <b>Integer</b>.</li>
+</ul><h2><span id="Special_classes">Special classes</span></h2>
+<h3><span id="Applet">Applet</span></h3>
+
+<p>Java applets are programs that are embedded in other applications, typically in a Web page displayed in a web browser.</p>
+
+<p>The <code><b>import</b></code> statements direct the Java compiler to include the <b><code>javax.swing.JApplet</code></b> and <b><code>java.awt.Graphics</code></b> classes in the compilation. The import statement allows these classes to be referenced in the source code using the <i>simple class name</i> (i.e. <code>JApplet</code>) instead of the <i>fully qualified class name</i> (<i>FQCN</i>, i.e. <code>javax.swing.JApplet</code>).</p>
+<p>The <code>Hello</code> class <code><b>extends</b></code> (subclasses) the <code><b>JApplet</b></code> (Java Applet) class; the <code>JApplet</code> class provides the framework for the host application to display and control the lifecycle of the applet. The <code>JApplet</code> class is a JComponent (Java Graphical Component) which provides the applet with the capability to display a graphical user interface (GUI) and respond to user events.</p>
+<p>The <code>Hello</code> class overrides the <b><code>paintComponent(Graphics)</code></b> method (additionally indicated with the annotation, supported as of JDK 1.5, <code>Override</code>) inherited from the <code>Container</code> superclass to provide the code to display the applet. The <code>paintComponent()</code> method is passed a <code><b>Graphics</b></code> object that contains the graphic context used to display the applet. The <code>paintComponent()</code> method calls the graphic context <b><code>drawString(String, int, int)</code></b> method to display the <b>"Hello, world!"</b> string at a pixel offset of (<code><b>65, 95</b></code>) from the upper-left corner in the applet's display.</p>
+
+<p>An applet is placed in an HTML document using the <b><code>&lt;applet&gt;</code></b> HTML element. The <code>applet</code> tag has three attributes set: <b><code>code="Hello"</code></b> specifies the name of the <code>JApplet</code> class and <b><code>width="200" height="200"</code></b> sets the pixel width and height of the applet. Applets may also be embedded in HTML using either the <code>object</code> or <code>embed</code> element, although support for these elements by web browsers is inconsistent. However, the <code>applet</code> tag is deprecated, so the <code>object</code> tag is preferred where supported.</p>
+<p>The host application, typically a Web browser, instantiates the <b><code>Hello</code></b> applet and creates an <code>AppletContext</code> for the applet. Once the applet has initialized itself, it is added to the AWT display hierarchy. The <code>paintComponent()</code> method is called by the AWT event dispatching thread whenever the display needs the applet to draw itself.</p>
+<h3><span id="Servlet">Servlet</span></h3>
+
+<p>Java Servlet technology provides Web developers with a simple, consistent mechanism for extending the functionality of a Web server and for accessing existing business systems. Servlets are server-side Java EE components that generate responses (typically HTML pages) to requests (typically HTTP requests) from clients. A servlet can almost be thought of as an applet that runs on the server side—without a face.</p>
+
+<p>The <b><code>import</code></b> statements direct the Java compiler to include all the public classes and interfaces from the <b><code>java.io</code></b> and <b><code>javax.servlet</code></b> packages in the compilation. Packages make Java well suited for large scale applications.</p>
+<p>The <code><b>Hello</b></code> class <code><b>extends</b></code> the <b><code>GenericServlet</code></b> class; the <code>GenericServlet</code> class provides the interface for the server to forward requests to the servlet and control the servlet's lifecycle.</p>
+<p>The <code>Hello</code> class overrides the <b><code>service(ServletRequest, ServletResponse)</code></b> method defined by the <code>Servlet</code> interface to provide the code for the service request handler. The <code>service()</code> method is passed: a <b><code>ServletRequest</code></b> object that contains the request from the client and a <b><code>ServletResponse</code></b> object used to create the response returned to the client. The <code>service()</code> method declares that it <code><b>throws</b></code> the exceptions <code>ServletException</code> and <code>IOException</code> if a problem prevents it from responding to the request.</p>
+<p>The <b><code>setContentType(String)</code></b> method in the response object is called to set the MIME content type of the returned data to <b>"text/html"</b>. The <b><code>getWriter()</code></b> method in the response returns a <b><code>PrintWriter</code></b> object that is used to write the data that is sent to the client. The <b><code>println(String)</code></b> method is called to write the <b>"Hello, world!"</b> string to the response and then the <b><code>close()</code></b> method is called to close the print writer, which causes the data that has been written to the stream to be returned to the client.</p>
+<h3><span id="JavaServer_Pages">JavaServer Pages</span></h3>
+
+<p>JavaServer Pages (JSP) are server-side Java EE components that generate responses, typically HTML pages, to HTTP requests from clients. JSPs embed Java code in an HTML page by using the special delimiters <code>&lt;%</code> and <code>%&gt;</code>. A JSP is compiled to a Java <i>servlet</i>, a Java application in its own right, the first time it is accessed. After that, the generated servlet creates the response.</p>
+<h3><span id="Swing_application">Swing application</span></h3>
+
+<p>Swing is a graphical user interface library for the Java SE platform. It is possible to specify a different look and feel through the pluggable look and feel system of Swing. Clones of Windows, GTK+ and Motif are supplied by Sun. Apple also provides an Aqua look and feel for Mac OS X. Where prior implementations of these looks and feels may have been considered lacking, Swing in Java SE 6 addresses this problem by using more native GUI widget drawing routines of the underlying platforms.</p>
+<p>This example Swing application creates a single window with "Hello, world!" inside:</p>
+
+<p>The first <b><code>import</code></b> includes all the public classes and interfaces from the <b><code>javax.swing</code></b> package.</p>
+<p>The <code><b>Hello</b></code> class <code><b>extends</b></code> the <b><code>JFrame</code></b> class; the <code>JFrame</code> class implements a window with a title bar and a close control.</p>
+<p>The <code><b>Hello()</b></code> constructor initializes the frame by first calling the superclass constructor, passing the parameter <code>"hello"</code>, which is used as the window's title. It then calls the <b><code>setDefaultCloseOperation(int)</code></b> method inherited from <code>JFrame</code> to set the default operation when the close control on the title bar is selected to <b><code>WindowConstants.EXIT_ON_CLOSE</code></b> – this causes the <code>JFrame</code> to be disposed of when the frame is closed (as opposed to merely hidden), which allows the Java virtual machine to exit and the program to terminate. Next, a <b><code>JLabel</code></b> is created for the string <b>"Hello, world!"</b> and the <b><code>add(Component)</code></b> method inherited from the <code>Container</code> superclass is called to add the label to the frame. The <b><code>pack()</code></b> method inherited from the <code>Window</code> superclass is called to size the window and lay out its contents.</p>
+<p>The <code><b>main()</b></code> method is called by the Java virtual machine when the program starts. It instantiates a new <b><code>Hello</code></b> frame and causes it to be displayed by calling the <b><code>setVisible(boolean)</code></b> method inherited from the <code>Component</code> superclass with the boolean parameter <code><b>true</b></code>. Once the frame is displayed, exiting the <code>main</code> method does not cause the program to terminate because the AWT event dispatching thread remains active until all of the Swing top-level windows have been disposed.</p>
+<h3><span id="Generics">Generics</span></h3>
+
+<p>In 2004, generics were added to the Java language, as part of J2SE 5.0. Prior to the introduction of generics, each variable declaration had to be of a specific type. For container classes, for example, this is a problem because there is no easy way to create a container that accepts only specific types of objects. Either the container operates on all subtypes of a class or interface, usually <code>Object</code>, or a different container class has to be created for each contained class. Generics allow compile-time type checking without having to create many container classes, each containing almost identical code. In addition to enabling more efficient code, certain runtime exceptions are converted to compile-time errors, a characteristic known as type safety.</p>
+<h2><span id="Criticism">Criticism</span></h2>
+
+<p>Criticisms directed at Java include the implementation of generics, speed, the handling of unsigned numbers, the implementation of floating-point arithmetic, and a history of security vulnerabilities in the primary Java VM implementation HotSpot.</p>
+<h2><span id="Use_on_unofficial_software_platforms">Use on unofficial software platforms</span></h2>
+<p>The Java programming language requires the presence of a software platform in order for compiled programs to be executed. A well-known unofficial Java-like software platform is the Android software platform, which allows the use of Java 6 and some Java 7 features, uses a different standard library (Apache Harmony reimplementation), different bytecode language and different virtual machine, and is designed for low-memory devices such as smartphones and tablet computers.</p>
+
+<h3><span id="Google">Google</span></h3>
+
+<p>Google and Android, Inc. have chosen to use Java as a key pillar in the creation of the Android operating system, an open source mobile operating system. Although the Android operating system, built on the Linux kernel, was written largely in C, the Android SDK uses the Java language as the basis for Android applications. However, Android does not use the Java virtual machine, instead using Java bytecode as an intermediate step and ultimately targeting Android's own Dalvik virtual machine or more recently Android Runtime which actually compiles applications to native machine code upon installation.</p>
+<p>Android also does not provide the full Java SE standard library, although the Android class library does include an independent implementation of a large subset of it. This led to a legal dispute between Oracle and Google. On May 7, 2012, a San Francisco jury found that if APIs could be copyrighted, then Google had infringed Oracle's copyrights by the use of Java in Android devices. District Judge William Haskell Alsup ruled on May 31, 2012, that APIs cannot be copyrighted, but this was reversed by the United States Court of Appeals for the Federal Circuit in May 2014.</p>
+<h2><span id="Class_libraries">Class libraries</span></h2>
+
+<p>The Java Class Library is the standard library, developed to support application development in Java. It is controlled by Sun Microsystems in cooperation with others through the Java Community Process program. Companies or individuals participating in this process can influence the design and development of the APIs. This process has been a subject of controversy. The class library contains features such as:</p>
+<ul><li>The core libraries, which include:
+<ul><li>IO/NIO</li>
+<li>Networking</li>
+<li>Reflection</li>
+<li>Concurrency</li>
+<li>Generics</li>
+<li>Scripting/Compiler</li>
+<li>Functional Programming (Lambda, Streaming)</li>
+<li>Collection libraries that implement data structures such as lists, dictionaries, trees, sets, queues and double-ended queue, or stacks</li>
+<li>XML Processing (Parsing, Transforming, Validating) libraries</li>
+<li>Security</li>
+<li>Internationalization and localization libraries</li>
+</ul></li>
+<li>The integration libraries, which allow the application writer to communicate with external systems. These libraries include:
+<ul><li>The Java Database Connectivity (JDBC) API for database access</li>
+<li>Java Naming and Directory Interface (JNDI) for lookup and discovery</li>
+<li>RMI and CORBA for distributed application development</li>
+<li>JMX for managing and monitoring applications</li>
+</ul></li>
+<li>User interface libraries, which include:
+<ul><li>The (heavyweight, or native) Abstract Window Toolkit (AWT), which provides GUI components, the means for laying out those components and the means for handling events from those components</li>
+<li>The (lightweight) Swing libraries, which are built on AWT but provide (non-native) implementations of the AWT widgetry</li>
+<li>APIs for audio capture, processing, and playback</li>
+<li>JavaFX</li>
+</ul></li>
+<li>A platform dependent implementation of the Java virtual machine that is the means by which the bytecodes of the Java libraries and third party applications are executed</li>
+<li>Plugins, which enable applets to be run in web browsers</li>
+<li>Java Web Start, which allows Java applications to be efficiently distributed to end users across the Internet</li>
+<li>Licensing and documentation</li>
+</ul><h2><span id="Documentation">Documentation</span></h2>
+
+<p>Javadoc is a comprehensive documentation system, created by Sun Microsystems, used by many Java developers. It provides developers with an organized system for documenting their code. Javadoc comments have an extra asterisk at the beginning, i.e. the delimiters are <code>/**</code> and <code>*/</code>, whereas the normal multi-line comments in Java are set off with the delimiters <code>/*</code> and <code>*/</code>.</p>
+<h2><span id="Editions">Editions</span></h2>
+
+<p>Sun has defined and supports four editions of Java targeting different application environments and segmented many of its APIs so that they belong to one of the platforms. The platforms are:</p>
+<ul><li>Java Card for smartcards.</li>
+<li>Java Platform, Micro Edition (Java ME) – targeting environments with limited resources.</li>
+<li>Java Platform, Standard Edition (Java SE) – targeting workstation environments.</li>
+<li>Java Platform, Enterprise Edition (Java EE) – targeting large distributed enterprise or Internet environments.</li>
+</ul><p>The classes in the Java APIs are organized into separate groups called packages. Each package contains a set of related interfaces, classes and exceptions. Refer to the separate platforms for a description of the packages available.</p>
+<p>Sun also provided an edition called PersonalJava that has been superseded by later, standards-based Java ME configuration-profile pairings.</p>
+<h2><span id="See_also">See also</span></h2>
+
+<ul><li>Dalvik – used in old Android versions, replaced by non-JIT Android Runtime</li>
+<li>JavaOne</li>
+<li>Javapedia</li>
+<li>List of Java virtual machines</li>
+<li>List of Java APIs</li>
+<li>List of JVM languages</li>
+<li>Graal, a project aiming to implement a high performance Java dynamic compiler and interpreter</li>
+</ul><h3><span id="Comparison_of_Java_with_other_languages">Comparison of Java with other languages</span></h3>
+<ul><li>Comparison of programming languages</li>
+<li>Comparison of Java and C++</li>
+<li>Comparison of C# and Java</li>
+</ul><h2><span id="Notes">Notes</span></h2>
+
+<h2><span id="References">References</span></h2>
+
+<h2><span id="External_links">External links</span></h2>
+</body>
+</html>

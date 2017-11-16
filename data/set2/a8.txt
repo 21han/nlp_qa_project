@@ -1,0 +1,87 @@
+Hercules (constellation)
+
+
+Hercules is a constellation named after Hercules, the Roman mythological hero adapted from the Greek hero Heracles. Hercules was one of the 48 constellations listed by the 2nd century astronomer Ptolemy, and it remains one of the 88 modern constellations today. It is the fifth largest of the modern constellations.
+
+
+Stars
+
+Hercules has no first or second magnitude stars. However, it does have several stars above magnitude 4. Alpha Herculis, traditionally called Rasalgethi, is a binary star resolvable in small amateur telescopes, 400 light-years from Earth. The primary is an irregular variable star; it is a red giant with a minimum magnitude of 4 and a maximum magnitude of 3. It has a diameter of 400 solar diameters. The secondary, which orbits every 3600 years, is a blue-green hued star of magnitude 5.4. Its common name means "the kneeler's head". Beta Herculis, also called Kornephoros, is the brightest star in Hercules. It is a yellow giant of magnitude 2.8, 148 light-years from Earth. Its traditional name means "club-bearer". deltoide 5512 is a double star divisible in small amateur telescopes. The primary is a blue-white star of magnitude 3.1,and is 78 light-years from Earth. The optical companion is of magnitude 8.2. Gamma Herculis is also a double star divisible in small amateur telescopes. The primary is a white giant of magnitude 3.8, 195 light-years from Earth. The optical companion, widely separated, is 10th magnitude. Zeta Herculis is a binary star that is becoming divisible in medium-aperture amateur telescopes, as the components widen to their peak in 2025. The system, 35 light-years from Earth, has a period of 34.5 years. The primary is a yellow-tinged star of magnitude 2.9 and the secondary is an orange star of magnitude 5.7.
+There are several dimmer variable stars in Hercules. 30 Herculis, also called g Herculis, is a semiregular red giant with a period of 3 months. 361 light-years from Earth, it has a minimum magnitude of 6.3 and a maximum magnitude of 4.3. 68 Herculis, also called u Herculis, is a Beta Lyrae-type eclipsing binary star. 865 light-years from Earth, it has a period of 2 days; its minimum magnitude is 5.4 and its maximum magnitude is 4.7.
+Hercules is also home to many double stars and binary stars. Kappa Herculis is a double star divisible in small amateur telescopes. The primary is a yellow giant of magnitude 5.0, 388 light-years from Earth; the secondary is an orange giant of magnitude 6.3, 470 light-years from Earth. Rho Herculis is a binary star 402 light-years from Earth, divisible in small amateur telescopes. Both components are blue-green giant stars; the primary is magnitude 4.5 and the secondary is magnitude 5.5. 95 Herculis is a binary star divisible in small telescopes, 470 light-years from Earth. The primary is a silvery giant star of magnitude 4.9 and the secondary is an old giant star of magnitude 5.2. 100 Herculis is a double star easily divisible in small amateur telescopes. Both components are magnitude 5.8 blue-white stars; they are 165 and 230 light-years from Earth.
+Mu Herculis is 27.4 light-years from Earth. The solar apex, i.e., the point on the sky which marks the direction that the Sun is moving in its orbit around the center of the Milky Way, is located within Hercules, close to Vega in neighboring Lyra.
+
+
+Planetary systems
+Fifteen stars in Hercules are known to be orbited by extrasolar planets.
+14 Herculis has two planets. The planet 14 Herculis b had the longest period (4.9 years) and widest orbit (2.8 AU) at the time of discovery. The planet 14 Herculis c orbits much further out with very low eccentricity.
+HD 149026 has a transiting hot Jupiter planet and is one of the most prominent and studied.
+HD 154345 has the planet HD 154345 b, a long period (9.095 years) and wide orbit (4.18 AU).
+HD 164922 has the first long period Saturn-like planet discovered. The mass is 0.36 MJ and semimajor axis of 2.11 AU.
+HD 147506 has the most massive transiting planet HAT-P-2b at the time of discovery. The mass is 8.65 MJ.
+HD 155358 has two planets around the lowest metallicity planet-harboring star (21% Sun). Both planets orbit in mild eccentricities.
+GSC 03089-00929 has a short transiting planet TrES-3. The period was 31 hours and undergoing orbital decay.
+Gliese 649 has a saturnian planet around the red dwarf star.
+HD 156668 has a 4.15 Earth mass planet.
+
+
+Deep-sky objects
+Hercules contains two bright globular clusters: M13, the brightest globular cluster in the northern hemisphere, and M92. It also contains the nearly spherical planetary nebula Abell 39. M13 lies between the stars η Her and ζ Her; it is dim, but may be detected by the unaided eye on a very clear night.
+M13, visible to both the naked eye and binoculars, is a globular cluster of the 6th magnitude that contains more than 300,000 stars and is 25,200 light-years from Earth. It is also very large, with an apparent diameter of over 0.25 degrees, half the size of the full moon; its physical diameter is more than 100 light-years. Individual stars in M13 are resolvable in a small amateur telescope.
+M92 is a globular cluster of magnitude 6.4, 26,000 light-years from earth. It is a Shapley class IV cluster, indicating that it is quite concentrated at the center; it has a very clear nucleus. M92 is visible as a fuzzy star in binoculars, like M13; it is denser and smaller than the more celebrated cluster. The oldest globular cluster known at 14 billion years, its stars are resolvable in a medium-aperture amateur telescope.
+NGC 6229 is a dimmer globular cluster, with a magnitude of 9.4, it is the third-brightest globular in the constellation. 100,000 light-years from Earth, it is a Shapley class IV cluster, meaning that it is fairly rich in the center and quite concentrated at the nucleus.
+NGC 6210 is a planetary nebula of the 9th magnitude, 4000 light-years from Earth visible as a blue-green elliptical disk in amateur telescopes larger than 75 mm in aperture.
+The Hercules Cluster (Abell 2151) is a cluster of galaxies in Hercules.
+The Hercules–Corona Borealis Great Wall, the largest structure in the universe, is in Hercules.
+
+
+Visualizations
+
+
+Traditional
+
+The traditional visualization imagines α Herculis as Hercules's head; its name, Ras Algethi, literally means "head of the kneeling one". Hercules's left hand then points toward Lyra from his shoulder (δ Herculis), and β Herculis, or Kornephoros ("club-bearer") forms his other shoulder. His narrow waist is formed by ε Herculis and ζ Herculis. Finally, his left leg (with θ Herculis as the knee and ι Herculis the foot) is stepping on Draco's head, the dragon/snake who Hercules has vanquished and perpetually gloats over for eternities.
+
+
+Keystone asterism
+
+A common form found in modern star charts uses the quadrangle formed by π Her, η Her, ζ Her and ε Her (known as the "Keystone" asterism) as Hercules's torso.
+
+
+H.A. Rey
+H. A. Rey has suggested an alternative visualization in which the "Keystone" becomes Hercules's head. This quadrangle lies between two very bright stars: Vega in the constellation Lyra and α CrB (Gemma, or Alphecca) in the constellation Corona Borealis. The hero's right leg contains two bright stars of the third magnitude: α Her (Ras Algethi) and δ Her (Sarin). The latter is the right knee. The hero's left leg contains dimmer stars of the fourth magnitude which do not have Bayer designations but which do have Flamsteed numbers. The star β Her belongs to the hero's outstretched right hand, and is also called Kornephoros.
+
+
+History
+According to Gavin White, the Greek constellation of Hercules is a distorted version of the Babylonian constellation known as the "Standing Gods" (MUL.DINGIR.GUB.BA.MESH). White argues that this figure was, like the similarly named "Sitting Gods", depicted as a man with a serpent's body instead of legs (the serpent element now being represented on the Greek star map by the figure of Draco that Hercules crushes beneath his feet). He further argues that the original name of Hercules – the 'Kneeler' (see below) – is a conflation of the two Babylonian constellations of the Sitting and Standing Gods.
+The earliest Greek references to the constellation do not refer to it as Hercules. Aratus describes it as follows:
+
+Right there in its [Draco's] orbit wheels a Phantom form, like to a man that strives at a task. That sign no man knows how to read clearly, nor what task he is bent, but men simply call him On His Knees [Ἐγγόνασιν "the Kneeler"].
+
+Now that Phantom, that toils on his knees, seems to sit on bended knee, and from both his shoulders his hands are upraised and stretch, one this way, one that, a fathom's length. Over the middle of the head of the crooked Dragon, he has the tip of his right foot. Here too that Crown [Corona], which glorious Dionysus set to be memorial of the dead Ariadne, wheels beneath the back of the toil-spent Phantom. To the Phantom’s back the Crown is near, but by his head mark near at hand the head of Ophiuchus [...] Yonder, too, is the tiny Tortoise, which, while still beside his cradle, Hermes pierced for stings and bade it be called the Lyre [Lyra]: and he brought it into heaven and set it in front of the unknown Phantom. That Croucher on his Knees comes near the Lyre with his left knee, but the top of the Bird’s head wheels on the other side, and between the Bird’s head and the Phantom’s knee is enstarred the Lyre.
+
+The story connecting Hercules with the constellation is recounted by Dionysius of Halicarnassus:
+
+On his way back to Mycenae from Iberia having obtained the Cattle of Geryon as his tenth labour Heracles came to Liguria in North-Western Italy where he engaged in battle with two giants, Albion and Bergion or Dercynus. The opponents were strong; Hercules was in a difficult position so he prayed to his father Zeus for help. With the aegis of Zeus, Heracles won the battle. It was this kneeling position of Heracles when prayed to his father Zeus that gave the name "the Kneeler". and Hyginus
+
+Hercules is also sometimes associated with Gilgamesh, a Sumerian mythological a hero.
+
+
+Equivalents
+In Chinese astronomy, the stars that correspond to Hercules are located in two areas: the Purple Forbidden enclosure (紫微垣, Zǐ Wēi Yuán) and the Heavenly Market enclosure (天市垣, Tiān Shì Yuán).
+
+
+References
+
+
+Further reading
+H. A. Rey, The Stars — A New Way To See Them. Enlarged World-Wide Edition. Houghton Mifflin, Boston, 1997. ISBN 0-395-24830-2.
+Ian Ridpath and Wil Tirion (2007). Stars and Planets Guide, Collins, London. ISBN 978-0-00-725120-9. Princeton University Press, Princeton. ISBN 978-0-691-13556-4.
+
+
+External links
+The Deep Photographic Guide to the Constellations: Hercules
+The clickable Hercules
+Star Tales – Hercules
+Hercules Constellation at Constellation Guide
+Warburg Institute Iconographic Database (over 180 medieval and early modern images of Hercules)

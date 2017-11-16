@@ -1,0 +1,10 @@
+http://en.wikipedia.org/wiki/English_language
+http://en.wikipedia.org/wiki/Chinese_language
+http://en.wikipedia.org/wiki/Hindi_language
+http://en.wikipedia.org/wiki/Spanish_language
+http://en.wikipedia.org/wiki/Klingon_language
+http://en.wikipedia.org/wiki/Latin_language
+http://en.wikipedia.org/wiki/Python_language
+http://en.wikipedia.org/wiki/Perl_language
+http://en.wikipedia.org/wiki/Java_language
+http://en.wikipedia.org/wiki/Esperanto
