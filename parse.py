@@ -8,9 +8,10 @@ from stanfordcorenlp import StanfordCoreNLP
 import logging
 import json
 from nltk.parse import stanford
+from nltk.tree import Tree as Tree
 
 ''' 
-Our code is based on the following source
+Parts of our parse function is based on the following source
 Citation: https://www.khalidalnajjar.com/setup-use-stanford-corenlp-server-python/
 ''' 
 
@@ -59,6 +60,7 @@ class Parse:
         return self.nlp.parse(sentence)
 
     def main(self, k):
+        acc = []
         # 1. tokenize chunk of raw string into sentence
         tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
         target_dir = sys.argv[1]
@@ -69,10 +71,41 @@ class Parse:
         sentences = [si for si in sentences if "\n" not in si]
         # 3. get top 10 shortest sentences
         sentences_top_k = sorted(sentences, key = len)[:k]
-        # parsed_tree_sentences = [self.parse(si) for si in sentences]
-        for i in sentences_top_k:
-            print(self.parse(i))        
-
+        o = 2
+        test_tree_str = self.parse(sentences_top_k[o])
+        print(sentences_top_k[o])
+        self.get_toplevel_struct(test_tree_str)
+        test_tree = Tree.fromstring(test_tree_str)
+  
+    
+    def get_toplevel_struct(self, tree):
+        tree_list = tree.split("\n")
+        person_index = 0
+        target_index = None
+        acc = []
+        be = None
+        person = None
+        if "(NP " not in tree or "(VP " not in tree:
+            return "Failure"
+        for t in tree_list:
+            if (len(t) - len(t.lstrip(" ")) == 4):
+                if "(NP " in t:
+                    person = (t.split(" ")[-1].rstrip(")"))
+                    target_index = person_index
+                    acc += [t]
+                elif (t.split(" ")[5]) == "(VBZ":
+                    verb = (t.split(" ")[-1].rstrip(")"))
+                    acc += [t.replace(verb, person)]
+                else:
+                    acc += [t]
+            else:
+                acc += [t]
+            person_index += 1
+        acc[target_index] = acc[target_index].replace(person, verb)
+        acc_str = ("".join(acc))
+        q_ls = Tree.fromstring(acc_str).leaves()
+        q_ls[-1] = "?"
+        print(" ".join(q_ls))
 
 if __name__ == '__main__':
     run = Parse()
