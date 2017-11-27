@@ -1,13 +1,16 @@
+# parse.py file contains
+
 import sys
 import os
 import nltk
 from collections import Counter
-import numpy as np
 from stanfordcorenlp import StanfordCoreNLP
 import logging
 import json
 from nltk.parse import stanford
 from nltk.tree import Tree
+reload(sys)  
+sys.setdefaultencoding('utf8')
 
 ''' 
 Parts of our parse function is based on the following source
@@ -57,23 +60,3 @@ class Parse:
 
     def parse(self, sentence):
         return self.nlp.parse(sentence)
-
-    def main(self, k):
-        acc = []
-        # 1. tokenize chunk of raw string into sentence
-        tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
-        target_dir = sys.argv[1]
-        target_file_object = open(target_dir)
-        raw_data = target_file_object.read()
-        sentences = (tokenizer.tokenize(raw_data))
-        # 2. filter out ill-format sentences := ones contain new line symbol
-        sentences = [si for si in sentences if "\n" not in si]
-        # 3. get top 10 shortest sentences
-        sentences_top_k = sorted(sentences, key = len)[:k]
-        return sentences_top_k
-
-
-if __name__ == '__main__':
-    run = Parse()
-    # user defined top K shortest sentences in a wiki article
-    run.main(20)
