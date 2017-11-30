@@ -1,27 +1,38 @@
 from bin_questions import BinQuestion
 from binary import Binary
-from parse import Parse
+from wh_question import WH
 from tokenize import Tokenize
 
 class Ask:
 
     def main(self, k):
+        print("\n\n\n\n")
         binary_questions = []
-        sentences_top_k = Tokenize.main(k)
-        print(sentences_top_k)
+        print "Check Point 0"
+        T = Tokenize.main(k)
+        sentences_top_k = T[0]
+        NE = T[1]
+        # print(sentences_top_k)
+        questions = []
         for si in sentences_top_k:
-            # print("**** si is : ", si)
-            print("************* ", si)
-            bin_attemp = Binary.main(si)
-        #     if bin_attemp:
-        #         binary_questions.append(bin_attemp)
-        # for q in binary_questions:
-        #     print(q)
+            print("	*** org  : ", si)
+            # print(" *** original sentence: ", si)
+            bin_attempt = Binary.main(si)
+            wh_attempt = WH.main(bin_attempt, si, NE)
+            if bin_attempt:
+                print("	*** bin : ", bin_attempt)
+                questions.append(bin_attempt)
+            if wh_attempt:
+                questions.append(wh_attempt)
+            print("\n")
+        print("\n\n\n\n")
+        # for q in questions:
+        #     print q
 
 if __name__ == '__main__':
     Tokenize = Tokenize()
     BinQuestion = BinQuestion()
     Binary = Binary()
+    WH = WH()
     run = Ask()
-    run.main(3)
-    # run.test()
+    run.main(20)
