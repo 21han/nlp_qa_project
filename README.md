@@ -46,8 +46,12 @@ The command line for answering takes 2 parameters: one directory of .txt file (s
 ```
 
 ## 3. Overall Idea
-I have explained the big picture in the following Youtube Video:
+I have explained the big picture (definitions of the problem, syntatic versus semnatics method, parsing approach, type of grammars, overall architecture of code, possible improvements) in the following Youtube Video:
 https://youtu.be/ohM7D21C_8Q or for your convenience: you may click [here](https://youtu.be/ohM7D21C_8Q)
+
+## 4. Credit
+Collaborated With Angela Liang. 
+
 
 
 
