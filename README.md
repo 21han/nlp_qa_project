@@ -45,6 +45,10 @@ The command line for answering takes 2 parameters: one directory of .txt file (s
 ./answer einstein.txt questions.txt
 ```
 
+## 3. Overall Idea
+I have explained the big picture in the following Youtube Video:
+https://youtu.be/ohM7D21C_8Q or for your convenience: you may click (here)[https://youtu.be/ohM7D21C_8Q]
+
 
 
 
