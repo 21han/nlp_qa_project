@@ -1,10 +1,6 @@
-import sys
-import os
 import nltk
-from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
-reload(sys)  
-sys.setdefaultencoding('utf8')
+
 
 class Ask_Binary:
     
@@ -20,10 +16,10 @@ class Ask_Binary:
         sentences = (tokenizer.tokenize(raw_data))
         # 2. filter out ill-format sentences := ones contain new line symbol
         sentences = [si for si in sentences if "\n" not in si]
-        # print("*****************", sentences)
         choices = [s.encode('ascii', 'ignore') for s in sentences]
-        print process.extract("who was the only American player to score a goal in the tournament", choices, limit=2)
+        print(process.extract("who was the only American player to score a goal in the tournament", choices, limit=2))
         return 0
+
 
 run = Ask_Binary()
 run.main()

@@ -5,7 +5,7 @@ from name_entity_processing import NEP
 class Tokenize:
     """ tokenize wiki article into sentences with top_k option """ 
     def main(self, k, article, top_k=True):
-        # print "Check Point 2"
+        print("checkpoint b")
         acc = []
         # 1. tokenize chunk of raw string into sentence
         tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')

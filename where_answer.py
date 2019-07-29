@@ -2,8 +2,9 @@ from parse import Parse
 from nltk.tree import Tree as Tree
 
 
-class WhenAnswer:
-    def get_answer(self, question, relevant):
+class WhereAnswer:
+    @staticmethod
+    def get_answer(question, relevant):
         r_parsed = Parse().parse(relevant)
         r_tree = Tree.fromstring(r_parsed)
         for i in range(len(r_tree[0])):
@@ -14,10 +15,9 @@ class WhenAnswer:
                 return answer
             if node.label() == "VP":
                 for sub_node in node:
-                    if (sub_node.label() == "PP" or sub_node.label() == "SBAR") and " ".join(sub_node.leaves()).lower() not in question.lower():
+                    if (sub_node.label() == "PP" or sub_node.label() == "SBAR") and \
+                            " ".join(sub_node.leaves()).lower() not in question.lower():
                         answer = " ".join(sub_node.leaves()) + "."
                         answer = answer[0].upper() + answer[1:]
-                        # print answer
                         return answer
         return relevant
-

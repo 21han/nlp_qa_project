@@ -29,7 +29,7 @@ class Parse:
         return self.nlp.ner(sentence)
 
     def parse(self, sentence):
-        return self.nlp.parse(sentence)
+        return self.nlp.parse(str(sentence))
 
     def dependency_parse(self, sentence):
         return self.nlp.dependency_parse(sentence)
@@ -48,6 +48,3 @@ class Parse:
                 'ner': token['ner']
             }
         return tokens
-
-    def parse(self, sentence):
-        return self.nlp.parse(str(sentence))

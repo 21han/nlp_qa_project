@@ -1,58 +1,39 @@
-# NLP Question Answering Project
+## NLP Question Answering Project
 
-description: natural language processing question answering system
+CMU 11-411 NLP Question Answering Project
 
-## 1. Packages
-To run `prase.py` file, please follow the [steps](https://www.khalidalnajjar.com/setup-use-stanford-corenlp-server-python/) (Only the first two steps are relevant. i.e. download the stanford core nlp library and running the server in terminal) and run the following command in the terminal: 
+`last_modified_date = 2019/07/28`: 
 
-```java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -annotators "tokenize,ssplit,pos,lemma,parse,sentiment" -port 9000 -timeout 30000```
++ upgraded to Python 3.7
++ Python 2 is officially deprecated
++ added `requirement.txt` file as requested by many people on Youtube and personally
++ added `setup.sh` to get `stanfordcorenlp` and `java`
++ cleaned up `Readme.md` and removed some junk files to keep things tidy
 
-Here is a list of python modules I am using:
+## Requirements
 
-```{python}
-# python default library
-import sys
-import operator
-import re
-import os
-import random
+Try the followings:
 
-# project modules
-from bin_questions import BinQuestion
-from parse import Parse
-from tokenize import Tokenize
++ `pip install -r requirement.txt`
++ `./setup.sh`, please open and read this file before running.
 
-# installed packages
-import nltk
-from nltk.tree import Tree as Tree
-from nltk.corpus import wordnet
-from nltk import word_tokenize, pos_tag, ne_chunk
-from stanfordcorenlp import StanfordCoreNLP
-
-from pattern.en import conjugate
-from pattern.en import tenses
-```
-## 2. Running 
-The command line for question generation takes 2 parameters: a directory of a .txt file and a number specifying how many questions to be generated.
+## How to use 
 
 ```
-./ask einstein.txt 20
+python ask.py einstein.txt 20
 ```
 
-The command line for answering takes 2 parameters: one directory of .txt file (source) and a directory of .txt file that contains a list of questions. The program will return a list of answer corresponding to each question.
-
 ```
-./answer einstein.txt questions.txt
+python answer.py einstein.txt questions.txt
 ```
 
-## 3. Overall Idea
-I have explained the big picture (definitions of the problem, syntatic versus semnatics method, parsing approach, type of grammars, overall architecture of code, possible improvements) in the following Youtube Video:
+## Big Picture
+I have explained the big picture (definitions of the problem, syntactic versus semantics method, parsing approach, type of grammars, overall architecture of code, possible improvements) in the following Youtube Video:
 https://youtu.be/ohM7D21C_8Q or for your convenience: you may click [here](https://youtu.be/ohM7D21C_8Q)
 
-## 4. Credit
-Collaborated With Angela Liang. 
 
+## Credits
 
-
-
-
+I collaborated with Angela Liang during the oldest version (prior 2018).
+Now, I am only maintaining it per requests. Please drop issues if you have trouble running codes.
+Usually, I will get back to you within 48 hours as courtesy.
