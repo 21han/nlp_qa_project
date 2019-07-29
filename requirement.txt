@@ -7,6 +7,7 @@ cheroot==6.5.5
 CherryPy==18.1.2
 feedparser==5.2.1
 future==0.17.1
+fuzzywuzzy==0.17.0
 idna==2.8
 jaraco.functools==2.0
 lxml==4.4.0
