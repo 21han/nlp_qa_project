@@ -1,11 +1,4 @@
 from stanfordcorenlp import StanfordCoreNLP
-import logging
-import json
-from nltk.parse import stanford
-from nltk.tree import Tree
-import sys
-reload(sys)  
-sys.setdefaultencoding('utf8')
 
 
 class StanfordNLP:

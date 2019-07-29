@@ -5,6 +5,8 @@ from why import Why
 from what_who import What_Who
 import operator
 import re
+from functools import reduce
+
 
 class WH:
 
@@ -14,7 +16,7 @@ class WH:
     """ PP : WHEN """
     def when_check(self, node):
         """ check if time related PP """
-        if (node.label() == "PP"):
+        if node.label() == "PP":
             node_ner = Parse.ner(" ".join(node.leaves()))
             time_set = set(["DATE", "TIME"])
             if any(t in time_set for t in reduce(operator.concat, node_ner)):
@@ -59,9 +61,9 @@ class WH:
 
         tree = Tree.fromstring(Parse.parse(s))
         for i in tree[0]:
-            if (str(i.label()) == "PP" and 
-                any(str(j).lower() in loc_set for j in i.leaves()) and
-                not(self.when_check(i))):
+            if str(i.label()) == "PP" and \
+                    any(str(j).lower() in loc_set for j in i.leaves()) and \
+                    not(self.when_check(i)):
                 return "PP"
             if (str(i.label())) == "VP":
                 for j in i:
@@ -134,9 +136,8 @@ class WH:
             if what_who:
                 print(" *** www  : ", str(what_who))
 
+
 Parse = Parse()
 Binary = Binary()
 Why = Why()
 What_Who = What_Who()
-
-

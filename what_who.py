@@ -1,20 +1,7 @@
-import sys
-import os
-import nltk
-from collections import Counter
 
-from stanfordcorenlp import StanfordCoreNLP
-import logging
-import json
-from nltk.parse import stanford
 from nltk.tree import Tree as Tree
 from parse_sentence import *
-from pattern.en import conjugate
-from pattern.en import tenses
 from binary import *
-reload(sys)  
-sys.setdefaultencoding('utf8')
-
 from nltk import word_tokenize, pos_tag, ne_chunk
 
 # sNLP = StanfordNLP()
@@ -43,7 +30,7 @@ class What_Who:
 			parse_by_structure[np_index] = "what"
 		parse_by_structure[-1] = "?"
 		sent = " ".join(parse_by_structure)
-		print sent
+		print(sent)
 		return sent
 
 

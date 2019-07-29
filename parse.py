@@ -1,16 +1,7 @@
 # parse.py file contains
 
-import sys
-import os
-import nltk
-from collections import Counter
 from stanfordcorenlp import StanfordCoreNLP
-import logging
 import json
-from nltk.parse import stanford
-from nltk.tree import Tree
-reload(sys)  
-sys.setdefaultencoding('utf8')
 
 ''' 
 Parts of our parse function is based on the following source
@@ -59,4 +50,4 @@ class Parse:
         return tokens
 
     def parse(self, sentence):
-        return self.nlp.parse(sentence)
+        return self.nlp.parse(str(sentence))

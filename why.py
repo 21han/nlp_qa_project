@@ -1,19 +1,7 @@
-import sys
-import os
-import nltk
-from collections import Counter
-# import matplotlib.pyplot as plt
-from stanfordcorenlp import StanfordCoreNLP
-import logging
-import json
-from nltk.parse import stanford
+
 from nltk.tree import Tree as Tree
-from parse import Parse
-from pattern.en import conjugate
-from pattern.en import tenses
 from binary import *
-reload(sys)  
-sys.setdefaultencoding('utf8')
+
 
 Binary = Binary()
 

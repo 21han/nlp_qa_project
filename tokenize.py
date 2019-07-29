@@ -1,11 +1,10 @@
-import sys
-import os
 import nltk
 from name_entity_processing import NEP
-    
+
+
 class Tokenize:
     """ tokenize wiki article into sentences with top_k option """ 
-    def main(self, k, article, topK = True):
+    def main(self, k, article, top_k=True):
         # print "Check Point 2"
         acc = []
         # 1. tokenize chunk of raw string into sentence
@@ -22,7 +21,7 @@ class Tokenize:
         sentences = [si for si in sentences if "\n" not in si]
         sentences = [s.encode('ascii', 'ignore') for s in sentences]
         # if we want to get top k shortest sentences
-        if topK:
+        if top_k:
             # 3. get top 10 shortest sentences
             sentences_top_k = sorted(sentences, key = len)[:k]
             return [sentences_top_k, NE]

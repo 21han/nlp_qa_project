@@ -3,13 +3,13 @@ from binary import Binary
 from wh_question import WH
 from tokenize import Tokenize
 
+
 class Ask:
 
     def main(self, k):
         print("\n\n\n\n")
-        binary_questions = []
-        print "Check Point 0"
-        T = Tokenize.main(k)
+        print("Check Point 0")
+        T = Tokenize.main(k, "einstein.txt")
         sentences_top_k = T[0]
         NE = T[1]
         # print(sentences_top_k)
@@ -28,6 +28,7 @@ class Ask:
         print("\n\n\n\n")
         # for q in questions:
         #     print q
+
 
 if __name__ == '__main__':
     Tokenize = Tokenize()

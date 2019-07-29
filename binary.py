@@ -1,23 +1,15 @@
-import sys
-import os
-import nltk
-from collections import Counter
-from stanfordcorenlp import StanfordCoreNLP
-import logging
-import json
-from nltk.parse import stanford
 from nltk.tree import Tree as Tree
 from parse import Parse
 from pattern.en import conjugate
 from pattern.en import tenses
-reload(sys)  
-sys.setdefaultencoding('utf8')
+
 
 sNLP = Parse()
 
 BE_VB_LIST = ["is", "was", "are", "am", "were", "will", "would", "could", "might", "may", "should", "can"]
 DO_DID_DOES = ["do", "did", "does"]
 VB_LIST = ["VBZ", "VBP", "VBD"]
+
 
 class Binary:
 
@@ -104,16 +96,20 @@ class Binary:
 		return sent 
 
 
-
 	def main(self, text):
-		tree = sNLP.parse(text)
-		tree = Tree.fromstring(str(tree))
-		(sent, NEG, is_binary) = self.convert(text, tree)
-		if not is_binary:
-			print "*********************", text
-			print "It could not be converted to binary question."
-			return False
-		tree = sNLP.parse(sent)
-		tree = Tree.fromstring(str(tree))
-		# print self.bin_q_type(tree, sent, NEG)
-		return self.bin_q_type(tree, sent, NEG)
+		print(f"check poin A: {text}")
+		try:
+			text = str(text)
+			tree = sNLP.parse(text)
+			tree = Tree.fromstring(str(tree))
+			(sent, NEG, is_binary) = self.convert(text, tree)
+			if not is_binary:
+				print("*********************", text)
+				print("It could not be converted to binary question.")
+				return False
+			tree = sNLP.parse(sent)
+			tree = Tree.fromstring(str(tree))
+			# print self.bin_q_type(tree, sent, NEG)
+			return self.bin_q_type(tree, sent, NEG)
+		except Exception as e:
+			print(e)
