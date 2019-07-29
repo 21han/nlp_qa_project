@@ -28,8 +28,11 @@ python answer.py einstein.txt questions.txt
 ```
 
 ## Big Picture
-I have explained the big picture (definitions of the problem, syntactic versus semantics method, parsing approach, type of grammars, overall architecture of code, possible improvements) in the following Youtube Video:
-https://youtu.be/ohM7D21C_8Q or for your convenience: you may click [here](https://youtu.be/ohM7D21C_8Q)
+
+I have explained how we approached the problem from scratch [here](https://youtu.be/ohM7D21C_8Q)
+
+[![Alt text](https://github.com/gzhami/nlp_qa_project/blob/master/youtube_img.png)](https://youtu.be/ohM7D21C_8Q)
+
 
 
 ## Credits
