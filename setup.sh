@@ -2,8 +2,8 @@
 
 # get the most recent standford core nlp
 # please run this at path/nlp_qa_project/
-wget http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip
-unzip stanford-corenlp-full-2018-10-05.zip
+wget http://nlp.stanford.edu/software/stanford-corenlp-latest.zip
+unzip stanford-corenlp-latest.zip
 
 # get java
 # if you already have java please comment the next two lines
